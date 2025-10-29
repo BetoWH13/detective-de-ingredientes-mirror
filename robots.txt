@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# This mirror exists only to confirm project ownership and backlink integrity.
+# The canonical source of this content is:
+Sitemap: https://www.detectivedeingredientes.com/sitemap.xml
